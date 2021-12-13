@@ -1,6 +1,6 @@
 # node-chat
 
-## This is the companion SERVER running Node.js and Express.js to configur eas the BACKEND for teh 'angular-chat' client.
+## This is the companion SERVER running Node.js and Express.js to configure as the BACKEND for the 'angular-chat' client.
 Server will be running on port: 8000
 
 Server needs to BE RUNNING - prior to running the CLIENT in order to get the CLIENT to function properly.
